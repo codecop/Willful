@@ -1,0 +1,15 @@
+{
+  "name": "Willful",
+  "version": "0.1.0",
+  "description": "Simple behavior driven testing in Io.",
+  "author": "Ben Mills",
+  "website": "https://www.benmills.org/willful",
+  "readme": "README.mkd",
+  "protos": [ "Willful", "AssertionFailed", "DescribeContext", "WillContext" ],
+  "dependencies": {
+    "libs": [],
+    "headers": [],
+    "protos": [],
+    "packages": []
+  }
+}
