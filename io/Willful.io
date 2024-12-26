@@ -1,4 +1,4 @@
-Importer addSearchPath("lib")
+Willful := Object clone
 
 tags := method(
   tagMap := Map clone

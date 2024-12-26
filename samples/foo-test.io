@@ -1,4 +1,4 @@
-doFile("lib/willful.io")
+Willful
 
 # Code
 Foo := Object clone do(bar := method("bar"))
